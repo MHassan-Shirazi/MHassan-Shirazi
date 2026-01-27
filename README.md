@@ -21,21 +21,26 @@
 <hr>
 <div align="center">
   <a href="https://hassan-shirazi-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%20Click%20Me-8B949E?style=for-the-badge&logo=website&logoColor=ffffff" alt="Portfolio Button">
+    <img width = "250px" src="https://img.shields.io/badge/Visit%20My%20Portfolio-%20Click%20Me-8B949E?style=for-the-badge&logo=website&logoColor=ffffff" alt="Portfolio Button">
   </a>
 </div>
 
+<hr>
+<h3>About Me</h3>
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I’m a **Second-Year Medical Field Student** 😁 But i am making my future in Data Science 🙂 
+-  And also I’m a **Full Stack Web Developer** I love creating dynamic and user-friendly Web applications With Ai.
+-  Expanding into **Data Science, Data Analyst, Machine Learning, Deep Learning and Generative AI**.
+-  I Always learning and exploring new challenges.
+  
+<hr>
+<h3>My Skills</h3>
+<p align="center">
+  <img title = "HTML" width="40px" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />
+  <img title = "CSS" width="40px" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" />
+  <img title = "JavaScript" width="40px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+  <img title = "" width="40px" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" />
+  <img title = "" width="45px" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
+  
+  
+</p>
