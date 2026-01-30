@@ -16,7 +16,7 @@
 <hr>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Ai+and+Data+Science+Expert;Data+Analyst+,+Power+BI+and+Excel+Expert;Machine+and+Deep+Learning+Expert;Generative+Ai+Expert;Full+Stack+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Ai+and+Data+Science+Expert;Data+Analyst;Machine+and+Deep+Learning+Expert;Generative+Ai+Expert;Full+Stack+Web+Developer" alt="Typing SVG" />
   </a>
 </div>
 
