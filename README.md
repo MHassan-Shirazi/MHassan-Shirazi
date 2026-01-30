@@ -1,31 +1,35 @@
-<hr>
 
-<div align="center">
-  <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-T3qYlSLKV0Nh0PeSRW3YIPVgA0Mkqy.png&w=320&q=75" width="130" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-As6MTLYJ6ta7FZgR1G5U6ZUzqfCqvm.png&w=320&q=75" width="130" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-UsyTZyMk2er8VfZu1T68Z4BbnfHYL1.png&w=320&q=75" width="130" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-JLGCwuVRfvOMwVMpimP9wXFiu6Nw4x.png&w=320&q=75" width="130" />
-</div>
-
-<hr>
 <div align = "center">
   <img width = "400px" src="https://i.ibb.co/RTMRDb7t/h.png" alt="">
 </div>
-
 <hr>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Ai+and+Data+Science+Expert;Data+Analyst;Machine+and+Deep+Learning+Expert;Generative+Ai+Expert;Full+Stack+Web+Developer" alt="Typing SVG" />
   </a>
 </div>
+<hr>
+
+<div align="center">
+  <img title = "Web Developer" src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-T3qYlSLKV0Nh0PeSRW3YIPVgA0Mkqy.png&w=320&q=75" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img title = "Gen Ai Expert" src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-As6MTLYJ6ta7FZgR1G5U6ZUzqfCqvm.png&w=320&q=75" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img title = "Data Analyst" src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-UsyTZyMk2er8VfZu1T68Z4BbnfHYL1.png&w=320&q=75" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img title = "ML/DL Expert" src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-JLGCwuVRfvOMwVMpimP9wXFiu6Nw4x.png&w=320&q=75" width="120" />
+</div>
+
+
+
+
+
 
 <hr>
 <div align="center">
   <a href="https://hassan-shirazi-portfolio.vercel.app/" target="_blank">
-    <img width = "250px" src="https://img.shields.io/badge/Visit%20My%20Portfolio-%20Click%20Me-8B949E?style=for-the-badge&logo=website&logoColor=ffffff" alt="Portfolio Button">
+    <img width = "280px" src="https://img.shields.io/badge/Visit%20My%20Portfolio-%20Click%20Me-8B949E?style=for-the-badge&logo=website&logoColor=ffffff" alt="Portfolio Button">
   </a>
 </div>
 
