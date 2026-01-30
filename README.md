@@ -1,4 +1,3 @@
-<h1 align="center"><b>Hi, I'm Hassan Shirazi</b></h1>
 <hr>
 
 <div align="center">
@@ -12,16 +11,19 @@
 </div>
 
 <hr>
+<h1 align="center"><b>Hi, I'm Hassan Shirazi</b></h1>
+
+<hr>
 <div align="center">
-  <a href="https://hassan-shirazi-portfolio.vercel.app/" target="_blank">
-    <img width = "250px" src="https://img.shields.io/badge/Visit%20My%20Portfolio-%20Click%20Me-8B949E?style=for-the-badge&logo=website&logoColor=ffffff" alt="Portfolio Button">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Ai+and+Data+Science+Expert;Data+Analyst+,+Power+BI+and+Excel+Expert;Machine+and+Deep+Learning+Expert;Generative+Ai+Expert;Full+Stack+Web+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 <hr>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=100&color=8B949E&center=true&vCenter=true&width=850&lines=Data+Analyst;Data+Scientist;Machine+Learning+Expert;Deep+Learning+Expert;Gen+AI+Expert" alt="Typing SVG" />
+  <a href="https://hassan-shirazi-portfolio.vercel.app/" target="_blank">
+    <img width = "250px" src="https://img.shields.io/badge/Visit%20My%20Portfolio-%20Click%20Me-8B949E?style=for-the-badge&logo=website&logoColor=ffffff" alt="Portfolio Button">
   </a>
 </div>
 
