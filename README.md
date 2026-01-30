@@ -11,7 +11,9 @@
 </div>
 
 <hr>
-<h1 align="center"><b>Hi, I'm Hassan Shirazi</b></h1>
+<div align = "center">
+  <img width = "400px" src="https://i.ibb.co/RTMRDb7t/h.png" alt="">
+</div>
 
 <hr>
 <div align="center">
