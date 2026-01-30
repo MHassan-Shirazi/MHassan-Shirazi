@@ -43,9 +43,9 @@
 <p align="center">
   <img title = "Jupyter notebook" width="40px" src="https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png" />
   <img title = "Anaconda" width="40px" src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" />
-  <img title = "VS Code" width="40px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
+  <img title = "VS Code" width="38px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
   <img title = "Git" width="40px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
-  <img title = "Github" width="40px" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" />
+  <img title = "Github" width="40px" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
   <img title = "HTML" width="40px" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />
   <img title = "CSS" width="40px" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" />
   <img title = "JavaScript" width="40px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
@@ -60,6 +60,11 @@
   <img title = "Excel" width="35px" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_512px.png" />
   <img title = "FastAPI" width="40px" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" />
   <img title = "streamlit" width="45px" src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" />
+  <img title = "Scikit-Learn" width="50px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" />
+  <img title = "TenserFlow" width="40px" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" />
+  <img title = "Keras" width="35px" src="https://icon.icepanel.io/Technology/svg/Keras.svg" />
+  
+  
   
  
   
