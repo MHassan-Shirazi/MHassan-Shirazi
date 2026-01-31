@@ -49,6 +49,7 @@
   <img title = "HTML" width="40px" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />
   <img title = "CSS" width="40px" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" />
   <img title = "JavaScript" width="40px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+  <img title = "Php" width="45px" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
   <img title = "Python" width="45px" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
   <img title = "Numpy" width="40px" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" />
   <img title = "Matplotlib" width="40px" src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" />
@@ -62,11 +63,16 @@
   <img title = "streamlit" width="45px" src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" />
   <img title = "Scikit-Learn" width="50px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" />
   <img title = "TenserFlow" width="40px" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" />
-  <img title = "Keras" width="35px" src="https://icon.icepanel.io/Technology/svg/Keras.svg" />
-  
-  
-  
- 
-  
-  
+  <img title = "Open CV" width="35px" src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" />
 </p>
+
+
+<hr>
+<h2><b>Github </b></h2>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHassan-Shirazi&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</div>
+
