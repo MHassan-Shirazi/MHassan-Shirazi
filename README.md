@@ -1,6 +1,6 @@
 <hr>
 <div align = "center">
-  <img width = "500px" src="https://i.ibb.co/jP4KFNZ7/kk.png" alt="">
+  <img width = "450px" src="https://i.ibb.co/jP4KFNZ7/kk.png" alt="">
 </div>
 <hr>
 
