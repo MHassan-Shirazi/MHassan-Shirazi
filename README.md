@@ -64,7 +64,10 @@
   <img title = "Scikit-Learn" width="50px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" />
   <img title = "TenserFlow" width="40px" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" />
   <img title = "Open CV" width="35px" src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" />
-  <img title = "Amazon Web Services" width="35px" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
+  <img title = "Amazon Web Services" width="40px" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
+  <img title = "Hugging Face" width="40px" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" />
+  
+      
 </p>
 
 
