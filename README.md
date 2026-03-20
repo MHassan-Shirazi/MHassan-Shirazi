@@ -87,7 +87,11 @@
     src="https://github-readme-stats.vercel.app/api?username=MHassan-Shirazi&show_icons=true&theme=transparent&hide_border=false&count_private=true" 
     width="41%" 
   />
-   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Shirazi&theme=github-compact&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" />
+  <br><br><br>
+  <img 
+  width="90%" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Shirazi&theme=github-compact&bg_color=f0f0f0&color=555555&line=00e676&point=888888&area=true&hide_border=true" 
+/>
 </div>
 <hr>
 
