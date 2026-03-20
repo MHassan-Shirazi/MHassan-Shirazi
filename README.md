@@ -70,13 +70,21 @@
   <img title = "n8n" width="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" />
 </p>
 
-
 <hr>
 <h2><b>Github States</b></h2>
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHassan-Shirazi&layout=compact&theme=tokyonight"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHassan-Shirazi&layout=compact&theme=transparent&langs_count=6&hide_border=false" 
+    width="30%" 
+  />
+  <br>
+
+  <img 
+    src="https://streak-stats.demolab.com/?user=MHassan-Shirazi&theme=transparent&hide_border=false" 
+    width="36.7%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MHassan-Shirazi&show_icons=true&theme=transparent&hide_border=false&count_private=true" 
+    width="35%" 
   />
 </div>
-
