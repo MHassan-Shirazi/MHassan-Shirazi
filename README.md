@@ -94,6 +94,7 @@
 <h2><b>Let's Connect</b></h2>
 
 <p align="center">
+   <a href="https://www.kaggle.com/mhassansherazi"><img width = "67px" src="https://icon.icepanel.io/Technology/svg/Kaggle.svg" /></a>
   <a href="https://github.com/MHassan-Shirazi"><img width = "70px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" /></a>
   <a href="https://www.linkedin.com/in/hassan-shirazi-7341b1373/"><img width = "70px" src="https://img.icons8.com/?size=96&id=13930&format=png" /></a>
   <a href="https://www.instagram.com/sheraziofficial0/"><img width = "70px" src="https://img.icons8.com/?size=96&id=Xy10Jcu1L2Su&format=png" /></a>
