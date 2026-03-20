@@ -38,7 +38,7 @@
 
 -  I’m a **Second-Year Medical Field Student** 😁 But i am making my future in Data Analyst 🙂
 -  And also I’m a **Web Developer & n8n Expert** I love creating Ai Workflows and user-friendly Web applications With Ai.
--  Expanding into **Data Science, Data Analyst, Machine Learning, Deep Learning and Generative AI**.
+-  Expanding into **Data Science, Data Analyst, Machine Learning, Deep Learning and Agentic Ai**.
 -  I Always learning and exploring new challenges.
   
 <hr>
@@ -46,13 +46,13 @@
 <p align="center">
   <img title = "Jupyter notebook" width="40px" src="https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png" />
   <img title = "Anaconda" width="40px" src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" />
+  <img title = "Google Colab" width="45px" src="https://img.icons8.com/?size=256&id=lOqoeP2Zy02f&format=png" />
   <img title = "VS Code" width="38px" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
   <img title = "Git" width="40px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
   <img title = "Github" width="40px" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png" />
   <img title = "HTML" width="40px" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />
   <img title = "CSS" width="40px" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" />
   <img title = "JavaScript" width="40px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
-  <img title = "Php" width="45px" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
   <img title = "Python" width="45px" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
   <img title = "Numpy" width="40px" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" />
   <img title = "Matplotlib" width="40px" src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" />
@@ -62,20 +62,16 @@
   <img title = "PostgresSQL" width="40px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
   <img title = "Power BI" width="35px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" />
   <img title = "Excel" width="35px" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_512px.png" />
-  <img title = "FastAPI" width="40px" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" />
+  <img title = "Snowflake" width="40px" src="https://cdn-icons-png.flaticon.com/512/8787/8787811.png" />
   <img title = "streamlit" width="45px" src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" />
   <img title = "Scikit-Learn" width="50px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" />
   <img title = "TenserFlow" width="40px" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" />
-  <img title = "Open CV" width="35px" src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" />
-  <img title = "Amazon Web Services" width="40px" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
-  <img title = "Hugging Face" width="40px" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" />
-  
-      
+   
 </p>
 
 
 <hr>
-<h2><b>Github </b></h2>
+<h2><b>Github States</b></h2>
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHassan-Shirazi&layout=compact&theme=tokyonight"
