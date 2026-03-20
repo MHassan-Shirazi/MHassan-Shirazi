@@ -6,7 +6,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Ai+and+Data+Science+Expert;Data+Analyst;Machine+and+Deep+Learning+Expert;Generative+Ai+Expert;Full+Stack+Web+Developer" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=AI+and+Data+Analyst+Expert;Business+Analyst;Reporting+Analyst;Business+Intelligence+Analyst;Data+Specialist;Web+Developer;Gen+Ai+Expert;n8n+Developer" 
+      alt="Typing SVG" 
+    />
   </a>
 </div>
 <hr>
@@ -18,7 +21,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img title = "Data Analyst" src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-UsyTZyMk2er8VfZu1T68Z4BbnfHYL1.png&w=320&q=75" width="120" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img title = "ML/DL Expert" src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-JLGCwuVRfvOMwVMpimP9wXFiu6Nw4x.png&w=320&q=75" width="120" />
+  <img title = "n8n Developer" src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-JLGCwuVRfvOMwVMpimP9wXFiu6Nw4x.png&w=320&q=75" width="120" />
 </div>
 
 <hr>
@@ -33,8 +36,8 @@
 <hr>
 <h2><b>About Me</b></h2>
 
--  I’m a **Second-Year Medical Field Student** 😁 But i am making my future in Data Science 🙂 
--  And also I’m a **Full Stack Web Developer** I love creating dynamic and user-friendly Web applications With Ai.
+-  I’m a **Second-Year Medical Field Student** 😁 But i am making my future in Data Analyst 🙂
+-  And also I’m a **Web Developer & n8n Expert** I love creating Ai Workflows and user-friendly Web applications With Ai.
 -  Expanding into **Data Science, Data Analyst, Machine Learning, Deep Learning and Generative AI**.
 -  I Always learning and exploring new challenges.
   
