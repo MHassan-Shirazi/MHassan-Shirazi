@@ -26,20 +26,19 @@
 
 <hr>
 <div align="center">
+  <!-- Portfolio Button -->
   <a href="https://hassan-shirazi-portfolio.vercel.app/" target="_blank">
-    <img width = "310px" src="https://img.shields.io/badge/Visit%20My%20Portfolio-%20Click%20Me-8B949E?style=for-the-badge&logo=website&logoColor=ffffff" alt="Portfolio Button">
+    <img width="310px" src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Me-8B949E?style=for-the-badge&logo=website&logoColor=ffffff" alt="Portfolio Button">
   </a>
 </div>
-
-
 
 <hr>
 <h2><b>About Me</b></h2>
 
--  I’m a **Second-Year Medical Field Student** 😁 But i am making my future in Data Analyst 🙂
--  And also I’m a **Web Developer & n8n Expert** I love creating Ai Workflows and user-friendly Web applications With Ai.
--  Expanding into **Data Science, Machine Learning, Deep Learning and Agentic Ai**.
--  I Always learning and exploring new challenges.
+- AI & Data Analyst focused on designing and building automation systems and intelligent workflows  
+- Transforming complex data into actionable insights and interactive dashboards to support decision-making  
+- Developing AI-powered solutions and automations using n8n, APIs, and modern tools  
+- Creating robust data applications and visualizations using Python, Power BI, and other analytics technologies  
   
 <hr>
 <h2><b>My Skills</b></h2>
