@@ -38,7 +38,7 @@
 
 -  I’m a **Second-Year Medical Field Student** 😁 But i am making my future in Data Analyst 🙂
 -  And also I’m a **Web Developer & n8n Expert** I love creating Ai Workflows and user-friendly Web applications With Ai.
--  Expanding into **Data Science, Data Analyst, Machine Learning, Deep Learning and Agentic Ai**.
+-  Expanding into **Data Science, Machine Learning, Deep Learning and Agentic Ai**.
 -  I Always learning and exploring new challenges.
   
 <hr>
