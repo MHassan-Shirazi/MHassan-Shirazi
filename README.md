@@ -107,5 +107,5 @@
 </p>
 
 <hr>
-<h1 align="center"> THANKS FOR VISITING MY PROFILE ! </h1>
+<h1 align="center"> THANKS FOR VISITING MY PROFILE ! ❤️ </h1>
 <hr>
