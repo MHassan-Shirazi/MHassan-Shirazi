@@ -75,16 +75,16 @@
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHassan-Shirazi&layout=compact&theme=transparent&langs_count=6&hide_border=false" 
-    width="30%" 
+    width="37%" 
   />
   <br>
 
   <img 
     src="https://streak-stats.demolab.com/?user=MHassan-Shirazi&theme=transparent&hide_border=false" 
-    width="36.7%" 
+    width="43%" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MHassan-Shirazi&show_icons=true&theme=transparent&hide_border=false&count_private=true" 
-    width="35%" 
+    width="41%" 
   />
 </div>
