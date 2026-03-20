@@ -67,7 +67,7 @@
   <img title = "streamlit" width="45px" src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" />
   <img title = "Scikit-Learn" width="50px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" />
   <img title = "TenserFlow" width="40px" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" />
-   
+  <img title = "n8n" width="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" />
 </p>
 
 
