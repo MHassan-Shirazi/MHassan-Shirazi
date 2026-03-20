@@ -87,4 +87,20 @@
     src="https://github-readme-stats.vercel.app/api?username=MHassan-Shirazi&show_icons=true&theme=transparent&hide_border=false&count_private=true" 
     width="41%" 
   />
+   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Shirazi&theme=github-compact&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" />
 </div>
+<hr>
+
+<h2><b>Let's Connect</b></h2>
+
+<p align="center">
+  <a href="https://github.com/MHassan-Shirazi"><img width = "70px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" /></a>
+  <a href="https://www.linkedin.com/in/hassan-shirazi-7341b1373/"><img width = "70px" src="https://img.icons8.com/?size=96&id=13930&format=png" /></a>
+  <a href="https://www.instagram.com/sheraziofficial0/"><img width = "70px" src="https://img.icons8.com/?size=96&id=Xy10Jcu1L2Su&format=png" /></a>
+  <a href="https://www.facebook.com/hassan.aslam.60964"><img width = "70px" src="https://img.icons8.com/?size=96&id=118497&format=png" /></a>
+  <a title = "hassanshirazzii@gmail.com" href="mailto:hassanshirazzii@gmail.com"><img width = "70px" src="https://img.icons8.com/?size=96&id=P7UIlhbpWzZm&format=png" /></a>
+</p>
+
+<hr>
+<h1 align="center"> THANKS FOR VISITING MY PROFILE ! </h1>
+<hr>
