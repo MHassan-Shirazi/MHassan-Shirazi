@@ -98,8 +98,6 @@
 | Coming Soon | Coming Soon | [Coming Soon](https://github.com/MHassan-Shirazi) |
 
 <hr>
-<br>
-  
   <br>
   <img 
   width="90%" 
