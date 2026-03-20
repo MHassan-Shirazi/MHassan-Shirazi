@@ -87,7 +87,20 @@
     src="https://github-readme-stats.vercel.app/api?username=MHassan-Shirazi&show_icons=true&theme=transparent&hide_border=false&count_private=true" 
     width="41%" 
   />
-  <br><br><br>
+  <br>
+<hr>
+<h2><b>Featured Projects</b></h2>
+
+| Project Name | Short Description | Link |
+|-------------|------------------|------|
+| Coming Soon | Coming Soon | [Coming Soon](https://github.com/MHassan-Shirazi) |
+| Coming Soon | Coming Soon | [Coming Soon](https://github.com/MHassan-Shirazi) |
+| Coming Soon | Coming Soon | [Coming Soon](https://github.com/MHassan-Shirazi) |
+
+<hr>
+<br>
+  
+  <br>
   <img 
   width="90%" 
   src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Shirazi&theme=github-compact&bg_color=f0f0f0&color=555555&line=00e676&point=888888&area=true&hide_border=true" 
