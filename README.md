@@ -98,9 +98,9 @@
 
 <hr>
   <br>
-  <img 
+<img 
   width="90%" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Shirazi&theme=github-compact&bg_color=f0f0f0&color=555555&line=00e676&point=888888&area=true&hide_border=true" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Shirazi&theme=transparent&bg_color=00000000&color=ffffff&line=00e676&point=888888&area=true&hide_border=false" 
 />
 </div>
 <hr>
