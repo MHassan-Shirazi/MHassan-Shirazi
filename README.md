@@ -100,7 +100,7 @@
   <br>
 <img 
   width="90%" 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Shirazi&theme=transparent&bg_color=00000000&color=ffffff&line=00e676&point=888888&area=true&hide_border=false" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MHassan-Shirazi&theme=default&bg_color=e5e7eb&color=374151&line=16a34a&point=6b7280&area=true&hide_border=false" 
 />
 </div>
 <hr>
