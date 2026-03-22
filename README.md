@@ -94,7 +94,7 @@
 |-------------|------------------|------|
 | Coming Soon | Coming Soon | [Coming Soon](https://github.com/MHassan-Shirazi) |
 | Coming Soon | Coming Soon | [Coming Soon](https://github.com/MHassan-Shirazi) |
-| Bank Management System | I created a Bank Management System Using core Python and Streamlit Web App Here i created Complete Crud Operation click the link to check my project| [Project Link](https://github.com/MHassan-Shirazi/Project-Bank-Management-System-Using-OOP.git) |
+| Bank Management System | I created a Bank Management System Using core Python and Streamlit | [Project Link](https://github.com/MHassan-Shirazi/Project-Bank-Management-System-Using-OOP.git) |
 
 <hr>
   <br>
