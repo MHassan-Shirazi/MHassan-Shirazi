@@ -1,5 +1,5 @@
 <div align = "center">
-  <img width = "900px" src="https://i.ibb.co/s9Kd7Jp7/banner.jpg" alt="">
+  <img width = "450px" src="https://i.ibb.co/jP4KFNZ7/kk.png" alt="">
 </div>
 <hr>
 
