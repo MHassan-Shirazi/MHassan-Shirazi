@@ -60,7 +60,7 @@
   <img title = "PostgresSQL" width="40px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
   <img title = "Power BI" width="35px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" />
   <img title = "Excel" width="35px" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_512px.png" />
-  <img title = "Snowflake" width="40px" src="https://cdn-icons-png.flaticon.com/512/8787/8787811.png" />
+  <img title = "Supabase" width="40px" src="https://img.icons8.com/?size=256&id=grZaE9tjqDyr&format=png" />
   <img title = "API" width="42px" src="https://i.ibb.co/gFgkBjpS/api.png" />
   <img title = "streamlit" width="45px" src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" />
   <img title = "Scikit-Learn" width="50px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" />
